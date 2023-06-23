@@ -31,13 +31,13 @@ Small script that allows me to identify the extensions that I have in the downlo
 1 - After changing the address in your .sh file you must set the execution permissions with the following command:
 
 ```shell
-chmod +x organizerFiles.sh
+chmod +x OrganizerFiles.sh
 ```
 
 2 - Finally, you can run the .sh file using the following command:
 
 ```shell
-./organizerFiles.sh
+./OrganizerFiles.sh
 ```
 
 ## Automatic task (Optional for Windows)
